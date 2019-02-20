@@ -1,0 +1,25 @@
+[200~503  cd Documents/
+  504  mkdir devops/gitsmu
+  505  mkdir -p devops/gitsmu 
+  506  ls
+  507  cd devops/
+  508  ls
+  509  cd gitsmu/
+  510  git --version
+  511  git clone git@github.com:msaifee90/git.git
+  512  ssh key-gen
+  513  ssh-keygen
+  514  cat /Users/msaifee/.ssh/id_rsa.pub
+  515  git clone git@github.com:msaifee90/git.git
+  516  ls
+  517  cd git
+  518  ls
+  519  git branch
+  520  git branch test
+  521  git branch
+  522  git checkout test
+  523  switched to branch test
+  524  ls
+  525  git branch 
+  526  history
+
