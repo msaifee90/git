@@ -22,4 +22,20 @@
   524  ls
   525  git branch 
   526  history
+  527  ls
+  528  touch commands
+  529  pwd
+  530  vim commands 
+  531  vim commands 
+  532  ###### to add file to git ########
+  533  history
+  534  git add .
+  535  ls
+  536  git commit -m "1st coomit"
+  537  git config --global user.email "saifee.786@live.com"
+  538  git config --global user.name "M saifee"
+  539  git commit -m "1st coomit"
+  540  git push
+  541   git push --set-upstream origin test
+  542  history 
 
